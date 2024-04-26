@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
-  - [Creating Virtual Machines within Azure VMs](https://github.com/LaKendaWilliams/configure-ad)
+  - [Creating Virtual Machines within Azure VMs](https://github.com/LaKendaWilliams/Creating-Virtual-Machines)
   - [Configuring Active Directory within Azure VMs](https://github.com/LaKendaWilliams/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/LaKendaWilliams/azure-network-protocols)
 
